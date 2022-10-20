@@ -1,0 +1,33 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is my awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+
+some text. I use [google](https://www.google.com/)
+
+put in an image: ~![](images/image.jpg)
+
+```{r}
+library(tidyverse)
+
+```
+
+
+heres a direct link to the about page: [about](about.html).
+
+
+bonus extra page [extra page](extra_page.html)
+
+
+
+
+
