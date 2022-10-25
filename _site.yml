@@ -11,4 +11,4 @@ navbar:
       href: http://github.com/<Sophia_GH_NAME>/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
